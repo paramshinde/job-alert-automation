@@ -17,7 +17,7 @@ An automated workflow that fetches job listings from APIs, filters them based on
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * n8n (workflow automation)
 * Telegram Bot API
@@ -65,7 +65,7 @@ Schedule Trigger → HTTP Request → Split Data → Filter Jobs → Add Priorit
 
 ---
 
-## 📌 Author
+##  Author
 
 Param Shinde
 
